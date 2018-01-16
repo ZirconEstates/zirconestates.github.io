@@ -1,0 +1,165 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    overflow-y: scroll;
+    overflow-x: hidden;
+    
+}
+
+.header-buttons a{
+    border: 2px solid #EC7063;
+    padding: 6px 16px;
+    margin-right: 10px;
+    margin-top: 5px;
+    margin-left: 20px;
+    color: black;
+}
+
+.header-buttons a.btn-full{
+    background-color: #EC7063;
+    color: white;
+    margin-top: 70px;
+}
+
+.topic{
+    margin-right: 5px;
+}
+
+.navbar-custom{
+    background: #212F3C;
+}
+
+.icon-bar{
+    background-color: white;
+}
+
+.navbar-custom .navbar-nav li a:hover{
+    background: transparent;
+}
+
+.navbar-custom .navbar-nav li a{
+    color: white;
+}
+
+.navbar-brand{
+    color: white;
+}
+
+.topper{
+    margin-left: 5px;
+}
+
+
+.first-pg-last{
+    background-color: #1C2833;
+    color: white;
+}
+
+.first-pg-last h5{
+    margin-left: 50px;
+}
+
+.company-o-head{
+    margin-top: 50px;
+}
+
+.HP-MORE h3:after{
+    width: 100px;
+    height: 2px;
+    background-color: #e67e22;
+    display: block;
+    content: " ";
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 90px;
+}
+
+.company-over{
+    margin-top: 40px;
+}
+
+.com-over-det{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.btn-warning{
+    width: 250px;
+    height: 40px;
+}
+
+.bodsimg{
+    border-radius: 50%;
+}
+
+<!--Carousel-->
+
+   .achimg{
+            margin-bottom: 20px;
+        }
+        
+.carousel .item {
+  height: 400px;
+}
+
+.item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 400px;
+}
+ 
+  .carousel-content {
+  position: absolute;
+  bottom: 20%;
+  left: 7%;
+  z-index: 20;
+  color: #566573;
+  text-shadow: 0 1px 2px rgba(0,0,0,.6);
+}
+        
+        .testimonial-name{
+            margin-bottom: 0px;
+        }
+        
+        .comment{
+            margin-bottom: 45px;
+        }
+        
+
+.tinted {
+    opacity: 0.3; 
+}
+        <!--Carousel DOne-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.pg-last{
+    margin-left: 60px;
+}
+
+.copyright{
+    font-size: 12px;
+}
+
+
+

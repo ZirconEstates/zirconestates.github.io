@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    overflow-y: scroll;
+    overflow-x: hidden;
+    
+}
+
+
+.hero{
+    color: white;
+    text-transform: uppercase;
+    margin-bottom: 50px;
+}
+
+
+.header img{
+    margin-top: 5px;
+    margin-bottom: 100px;
+}
+
+.header-buttons a{
+    border: 2px solid #EC7063;
+    padding: 6px 16px;
+    margin-right: 10px;
+    margin-top: 5px;
+    margin-left: 20px;
+    color: white;
+}
+
+.header-buttons a.btn-full{
+    background-color: #EC7063;
+    color: white;
+    margin-top: 70px;
+}
+
+.topic{
+    margin-right: 5px;
+}
+
+.navbar-custom{
+    background: #212F3C;
+}
+
+.icon-bar{
+    background-color: white;
+}
+
+.navbar-custom .navbar-nav li a:hover{
+    background: transparent;
+}
+
+.navbar-custom .navbar-nav li a{
+    color: white;
+}
+
+.navbar-brand{
+    color: white;
+}
+
+.topper{
+    margin-left: 5px;
+}
+
+.HP-MORE h1:after{
+    width: 100px;
+    height: 2px;
+    background-color: #e67e22;
+    display: block;
+    content: " ";
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+.pdf{
+    margin-top: 50px;
+    text-align: center;
+}
+
+
+
+.first-pg-last{
+    background-color: #1C2833;
+    color: white;
+}
+
+.first-pg-last h5{
+    margin-left: 50px;
+}
+
+.pg-last{
+    margin-left: 60px;
+}
+
+.copyright{
+    font-size: 12px;
+}
