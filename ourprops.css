@@ -12,7 +12,7 @@ body{
 
 
 .header{
-    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(images/ourpropsbg.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(ourpropsbg.jpg);
     height: 100vh;
     background-position: center;
     background-size: cover;
